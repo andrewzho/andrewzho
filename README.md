@@ -7,9 +7,7 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 - 🖥️ Experienced in **Full-Stack Development, Backend Engineering, and Data Analytics**
 - 📊 Currently working on a **Data Warehouse project** for healthcare analytics
 - 🎮 Passionate about **game development** and creating AI-driven experiences
-- ✈️ Building an **AI-powered travel bucket list app** with **FastAPI, React, and MongoDB**
-- 🌱 Currently honing my **DSA skills** for technical interviews
-- 💡 Always open to collaborating on new projects and hackathons!
+- 💡 Always open to collaborating on new projects!
 
 ---
 
@@ -21,6 +19,7 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 **Web & Backend:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -38,17 +37,11 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 
 ### 🏆 Featured Projects
 
-🚀 **[BucketList AI](https://github.com/your-repo)** – AI-powered travel planner that generates personalized itineraries based on user preferences. Built with **FastAPI, React, MongoDB, and Fetch.ai**.
+🚀 **[BucketList AI](https://github.com/andrewzho/BucketList-AI)** – AI-powered travel planner that generates personalized itineraries based on user preferences. Built with **FastAPI, React, MongoDB, and Fetch.ai**.
 
-🔎 **[High-Performance Search Engine](https://github.com/your-repo)** – Developed an optimized search engine for the **UCI ICS domain**, enhancing information retrieval efficiency.
+🔎 **[NeuroFlow](https://github.com/andrewzho/NeuroFlow)** – Developed an optimized search engine for the **UCI ICS domain**, enhancing information retrieval efficiency.
 
-📊 **[Automated Financial Manager](https://github.com/your-repo)** – Designed a financial tracking system integrating **Google Sheets, Python, and SQL** for automated budget analysis.
-
-🎥 **[Gmail AI Email Summarization](https://github.com/your-repo)** – Implemented an AI-powered summarization tool to **generate concise email digests** for users.
-
-👾 **[Checkers AI](https://github.com/your-repo)** – Created a **self-learning AI for Checkers** using **Minimax & Alpha-Beta pruning**.
-
-🔗 **More on my GitHub:** [github.com/andyho457](https://github.com/andyho457)
+🔗 **More on my GitHub:** [github.com/andrewzho](https://github.com/andrewzho)
 
 ---
 
