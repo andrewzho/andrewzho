@@ -1,72 +1,72 @@
-👋 Hey there, I'm Andrew Ho!
+## 👋 Hey there, I'm Andrew Ho!
 
-🚀 About Me
+### 🚀 About Me
 
-I'm a Computer Science senior at UC Irvine (Graduating March 2025), with a passion for backend development, AI, and data analytics. I enjoy building projects that integrate machine learning, AI agents, data pipelines, and full-stack applications. My goal is to create efficient, scalable, and impactful software solutions, whether it's for healthcare, finance, or gaming.
+I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), passionate about **Software Engineering, Full-Stack Development, AI, and Data Science**. My goal is to build **impactful and innovative applications** that enhance user experiences and solve real-world problems. 
 
-🛠️ Tech Stack
+- 🖥️ Experienced in **Full-Stack Development, Backend Engineering, and Data Analytics**
+- 📊 Currently working on a **Data Warehouse project** for healthcare analytics
+- 🎮 Passionate about **game development** and creating AI-driven experiences
+- ✈️ Building an **AI-powered travel bucket list app** with **FastAPI, React, and MongoDB**
+- 🌱 Currently honing my **DSA skills** for technical interviews
+- 💡 Always open to collaborating on new projects and hackathons!
 
-Languages:       
+---
 
-Frameworks & Libraries:     
+### 🛠️ Tech Stack
 
-Databases:    
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Tools & Platforms:      
+**Web & Backend:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-🏆 Projects
+**Databases & Tools:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 
-🚀 BucketList AI
+---
 
-FastAPI + React-based AI travel planner integrating Fetch.ai agents to provide flight recommendations and itinerary suggestions based on user preferences.
+### 🏆 Featured Projects
 
-🔹 Built a REST API for itinerary queries and user authentication.
+🚀 **[BucketList AI](https://github.com/your-repo)** – AI-powered travel planner that generates personalized itineraries based on user preferences. Built with **FastAPI, React, MongoDB, and Fetch.ai**.
 
-🔹 Integrated AI agents to automate travel planning.
+🔎 **[High-Performance Search Engine](https://github.com/your-repo)** – Developed an optimized search engine for the **UCI ICS domain**, enhancing information retrieval efficiency.
 
-🔹 Designed a MongoDB schema for structured storage of user preferences and travel data.
+📊 **[Automated Financial Manager](https://github.com/your-repo)** – Designed a financial tracking system integrating **Google Sheets, Python, and SQL** for automated budget analysis.
 
-📊 Data Warehouse & Power BI Reports
+🎥 **[Gmail AI Email Summarization](https://github.com/your-repo)** – Implemented an AI-powered summarization tool to **generate concise email digests** for users.
 
-Designed a healthcare data warehouse using a star schema, focusing on patient data analytics and financial reporting.
+👾 **[Checkers AI](https://github.com/your-repo)** – Created a **self-learning AI for Checkers** using **Minimax & Alpha-Beta pruning**.
 
-🔹 Created ETL pipelines for integrating finance department data.
+🔗 **More on my GitHub:** [github.com/andyho457](https://github.com/andyho457)
 
-🔹 Developed Power BI dashboards for denial trends and insurance claims.
+---
 
-🔹 Optimized SQL queries to improve report generation efficiency.
+### 📬 Get in Touch
 
-🛩️ Reliable Robotics Flight Software Project (In Progress)
+- 📧 Email: [andyho457@gmail.com](mailto:andyho457@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/andyho457](https://www.linkedin.com/in/andyho457)
+- 🌐 Portfolio: [andyho.dev](https://andyho.dev) (Coming soon!)
+- 🏆 Always open to networking, collaborating, or discussing exciting projects!
 
-Applying for a Flight Software Engineer Internship – Exploring software solutions for aviation automation.
+---
 
-🔹 Working on real-time system design and safety-critical software.
+### 📊 GitHub Stats
 
-🔹 Enhancing knowledge in low-level software engineering and avionics.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyho457&show_icons=true&theme=radical)
 
-📚 Experience
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyho457&layout=compact&theme=radical)
 
-Software Engineer Intern @ New York Proton Center (Backend + Data Analytics)
+---
 
-Software Engineer - Backend @ Mingley (Built scalable APIs & authentication systems)
-
-Data Analysis Intern @ Regeneron (Analyzed healthcare & financial datasets for insights)
-
-🔍 Current Focus
-
-Hackathon Projects – Exploring AI-powered solutions with Deepgram & FastAPI.
-
-Data Structures & Algorithms – Strengthening problem-solving skills.
-
-AI & Machine Learning – Integrating AI agents for intelligent automation.
-
-📫 Connect With Me
-
-✉️ Email: andyho457@gmail.com
-
-💼 LinkedIn
-
-🏗️ Portfolio (Coming Soon!)
-
-💡 Always looking for new challenges and collaborations – Feel free to reach out! 🚀
-
+Thanks for stopping by! 🚀 **Let's build something amazing!** 💡
