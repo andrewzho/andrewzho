@@ -39,7 +39,7 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 
 🚀 **[BucketList AI](https://github.com/andrewzho/BucketList-AI)** – AI-powered travel planner that generates personalized itineraries based on user preferences. Built with **FastAPI, React, MongoDB, and Fetch.ai**.
 
-🔎 **[NeuroFlow](https://github.com/andrewzho/NeuroFlow)** –  HRV-based Fatigue Analysis](https://github.com/your-repo)** – Built a FastAPI and PostgreSQL backend that processes HRV data from videos to determine user tiredness levels.
+🔎 **[NeuroFlow](https://github.com/andrewzho/NeuroFlow)** – Built a FastAPI and PostgreSQL backend that processes HRV data from videos to determine user tiredness levels.
 
 🔗 **More on my GitHub:** [github.com/andrewzho](https://github.com/andrewzho)
 
