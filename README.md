@@ -54,8 +54,8 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 
 ### 📬 Get in Touch
 
-- 📧 Email: [andyho457@gmail.com](mailto:andyho457@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/andyho457](https://www.linkedin.com/in/andyho457)
+- 📧 Email: [andrewzho20003@gmail.com](mailto:andrewzho20003@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/andrewho27](https://www.linkedin.com/in/andrewho27)
 - 🌐 Portfolio: [andyho.dev](https://andyho.dev) (Coming soon!)
 - 🏆 Always open to networking, collaborating, or discussing exciting projects!
 
@@ -63,9 +63,9 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyho457&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewzho&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyho457&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewzho&layout=compact&theme=radical)
 
 ---
 
