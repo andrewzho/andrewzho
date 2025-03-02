@@ -49,7 +49,7 @@ I'm a **Computer Science senior** at **UC Irvine** (Graduating March 2025), pass
 
 - 📧 Email: [andrewzho20003@gmail.com](mailto:andrewzho20003@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/andrewho27](https://www.linkedin.com/in/andrewho27)
-- 🌐 Portfolio: [andyho.dev](https://andyho.dev) (Coming soon!)
+- 🌐 Portfolio: [andrewzho.github.io](https://andrewzho.github.io/)
 - 🏆 Always open to networking, collaborating, or discussing exciting projects!
 
 ---
